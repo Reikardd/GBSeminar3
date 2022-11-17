@@ -1,3 +1,3 @@
 ##My remote repository tutorial
 
-* *git push* - пушим на удаенный репозиторий
+* *git pull* -получаем изменения из удаленнного репозитория
